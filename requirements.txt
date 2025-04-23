@@ -1,0 +1,11 @@
+Pandas: This library is essential for data manipulation and analysis. It provides data structures like DataFrames and Series to handle and analyze structured data efficiently.
+
+Flask: Flask is a lightweight and flexible web framework for Python. It helps in building web applications and APIs quickly, offering simplicity and extensibility for developers.
+
+pickle5: This library is an extension of Python’s pickle module. It’s used for serializing and deserializing Python objects, making it easy to save and load data (like model files or large data structures).
+
+NumPy: A fundamental library for numerical computing in Python. It provides support for arrays, matrices, and high-level mathematical operations.
+
+Matplotlib: This is a data visualization library that allows you to create static, interactive, and animated plots and graphs for your data.
+
+scikit-learn: A powerful library for machine learning. It includes tools for classification, regression, clustering, and dimensionality reduction.
